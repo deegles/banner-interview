@@ -13,3 +13,10 @@ npm run dev
 ```
 
 This will start the backend server as well as the frontend.
+
+Video Demo:
+
+
+
+https://github.com/user-attachments/assets/8a574171-c931-4058-b6e0-b9de274161af
+
